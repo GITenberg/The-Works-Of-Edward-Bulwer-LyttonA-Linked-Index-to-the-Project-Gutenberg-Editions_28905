@@ -1,0 +1,38 @@
+_repo: The-Works-Of-Edward-Bulwer-LyttonA-Linked-Index-to-the-Project-Gutenberg-Editions_28905
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28905-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    - Bulwer, Edward Lytton
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: V. 7. A strange story. The haunted and the haunters. The last of the
+  barons. Rienzi. -- v. 8. Pelham. Paul Clifford. Zanoni. Falkland.
+gutenberg_issued: '2009-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indexes'
+- !lcc 'PR'
+title: 'The Works Of Edward Bulwer-Lytton
+
+  A Linked Index to the Project Gutenberg Editions'
+url: http://www.gutenberg.org/ebooks/28905
